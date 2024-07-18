@@ -1,7 +1,7 @@
 # Some important information to run this application
- This application is not currently running, because I hide my api key for security issues, you can run this application
- 1.first go to news app folder
- 2.then go to env.local file
+ This application is not currently running, because I hide my api key for security issues, you can run this application<br>
+ 1.first go to news app folder<br>
+ 2.then go to env.local file<br>
  3.under env.local you enter your api in thr "Enter your API KEY" section the run , when enter api key only don't enter api key under "" or'' just enter api key like REACT_APP_NEWS_API= 1cdfhjdf4868751511bvzhjxv4544
 
 # Getting Started with Create React App
